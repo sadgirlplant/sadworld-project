@@ -2,7 +2,7 @@
   "name": "SADWORLD",
   "symbol": "SAD",
   "description": "everything sucks",
-  "image": "https://github.com/sadgirlplant/sadworld-project/blob/main/logo.png",
+  "image": "https://raw.githubusercontent.com/sadgirlplant/sadworld-project/refs/heads/main/logo.png",
   "extensions": {
     "website": "",
     "twitter": "https://x.com/sadworldtoken",
